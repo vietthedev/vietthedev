@@ -1,8 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlqviet&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hlqviet&theme=transparent)](https://git.io/streak-stats)
+
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=github&hideBg=true&bg=%23FFFFFF&badge=%23EAEFFC&border=%23D8DEE4&titleColor=%230969DA&line1=html5%2CHTML%2CE34F26%3Bcss3%2CCSS%2C1572B6%3Bjavascript%2CJavaScript%2CF7DF1E%3Btypescript%2CTypeScript%2C3178C6%3B&line2=react%2CReact%2C61DAFB%3Bnext.js%2CNext.js%2C000000%3Bnode.js%2CNode.js%2C5FA04E%3Bdocker%2CDocker%2C2496ED%3B)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlqviet&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
